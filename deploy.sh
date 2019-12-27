@@ -14,7 +14,7 @@ cd docs/.vuepress/dist
 
 git init
 git add -A
-git commit -m '搭建博客基础框架'
+git commit -m '添加微信公众号'
 
 # 如果你想要部署到 https://USERNAME.github.io
 git push -f git@github.com:itmacy/itmacy.github.io.git master
