@@ -14,7 +14,7 @@ module.exports = {
       {text: '前端',link: '/page/web/'},
       {text: 'java',link: '/page/java/'},
       {text: 'c++',link: '/page/cpp/'},
-      {text: '关于',
+      {text: '关于作者',
         items: [
           {text: 'github', link: 'https://github.com/itmacy'},
           {text: '博客园', link: 'https://www.cnblogs.com/itmacy/'},
@@ -54,7 +54,7 @@ module.exports = {
       '/':[
           '',
           'about.md',
-          'contact.md'
+          'contact.md',
       ],
     }
   }
