@@ -2,14 +2,14 @@ module.exports = {
   title: 'itmacy\'s blog',
   description: 'itmacy的个人网站',
   head: [ // 注入到当前页面的 HTML <head> 中的标签
-    ['link', { rel: 'icon', href: '/asset/logo.png' }], // 增加一个自定义的 favicon(网页标签的图标)
+    ['link', { rel: 'icon', href: '/assets/favicon.ico' }], // 增加一个自定义的 favicon(网页标签的图标)
   ],
   base: '/', // 这是部署到github相关的配置
   markdown: {
     lineNumbers: false // 代码块显示行号
   },
   themeConfig: {
-    logo: '/asset/logo.png', // 导航栏logo
+    logo: '/assets/avatar_circle.png', // 导航栏logo
     nav:[ // 导航栏链接
       {text: '前端',link: '/page/web/'},
       {text: 'java',link: '/page/java/'},

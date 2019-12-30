@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /asset/logo.png
+heroImage: /assets/avatar_circle.png
 heroText: itmacy's Blog
 tagline: this is itmacy' zone
 actionText: Home →
