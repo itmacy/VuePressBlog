@@ -14,6 +14,7 @@ module.exports = {
       {text: '前端',link: '/page/web/'},
       {text: 'java',link: '/page/java/'},
       {text: 'c++',link: '/page/cpp/'},
+      {text: 'svn',link: '/page/svn/stat-svn/'},
       {text: '关于作者',
         items: [
           {text: 'github', link: 'https://github.com/itmacy'},
@@ -41,11 +42,16 @@ module.exports = {
       ],
       /**************java******************/
       '/page/java/':[
-        ''
+        '',
+        'mysql-emoji/'
       ],
       /**************c++******************/
       '/page/cpp/':[
         ''
+      ],
+      /**************svn******************/
+      '/page/svn/':[
+        'stat-svn/'
       ],
       /**************fallback******************/
       '/page/':[

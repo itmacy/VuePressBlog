@@ -11,7 +11,7 @@
 > `npm install -g vuepress`
 
 ### 创建项目
-> 创建一个名为`vuepress-demo`的项目
+> 创建一个名为`vuepress-demo`的项目`USERNAME
 
 ### 初始化项目
 > 进入到项目后，执行命令 `npm init` 或 `npm init -y`（默认yes），此时会生成一个`package.json`的文件
@@ -101,7 +101,7 @@ module.exports = {
 
 ### 部署
 #### 部署到github
-> 这里部署到github上使用两个repository，第一个为`USERNAME.github.io`，用于显示页面，另一个用于项目编辑并把项目部署到`USERNAME.github.io`
+> 这里部署到github上使用两个repository，第一个为.github.io`，用于显示页面，另一个用于项目编辑并把项目部署到`USERNAME.github.io`
 
 - 新建第一个repository，名为`USERNAME.github.io`，USERNAME指的是github的账号名，例如我的github账号名为`itmacy`，那么新建的repository名则为
 `itmacy.github.io`，里面不需要存放任何文件，也不需要clone到本地。
@@ -175,4 +175,3 @@ cd -
 > `https://USERNAME.github.io/`，例如访问我的：`https://itmacy.github.io/`。
 
 
-  
